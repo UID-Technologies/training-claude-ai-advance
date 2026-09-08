@@ -9,10 +9,34 @@ The program is designed for experienced .NET developers, senior developers, tech
 
 ## Quick Navigation
 
-- Day 1 index: [Day 1/Lab.md](Day%201/Lab.md)
-- Day 2 index: [Day 2/Lab.md](Day%202/Lab.md)
+- Day 1 labs: [Day 1](Day%201)
+- Day 2 labs: [Day 2](Day%202)
 - Day 1 trainer checklist: [Day 1/Trainer-Evaluation-Checklist.md](Day%201/Trainer-Evaluation-Checklist.md)
 - Day 2 trainer checklist: [Day 2/Trainer-Evaluation-Checklist.md](Day%202/Trainer-Evaluation-Checklist.md)
+
+## Lab File Links
+
+### Day 1 Lab Links
+
+1. [Day 1/Lab-00-Base-Solution-Setup.md](Day%201/Lab-00-Base-Solution-Setup.md)
+2. [Day 1/Lab-01-Claude-Analysis-Prompting-and-Test-Matrix.md](Day%201/Lab-01-Claude-Analysis-Prompting-and-Test-Matrix.md)
+3. [Day 1/Lab-02-Repository-Understanding-and-AI-Assisted-Feature-Development.md](Day%201/Lab-02-Repository-Understanding-and-AI-Assisted-Feature-Development.md)
+4. [Day 1/Lab-03-Regression-Testing-and-AI-Assisted-Debugging.md](Day%201/Lab-03-Regression-Testing-and-AI-Assisted-Debugging.md)
+5. [Day 1/Lab-04-Claude-Enabled-API-Code-Review-Service.md](Day%201/Lab-04-Claude-Enabled-API-Code-Review-Service.md)
+6. [Day 1/Lab-05-Tool-Use-and-Agentic-Workflow.md](Day%201/Lab-05-Tool-Use-and-Agentic-Workflow.md)
+7. [Day 1/Lab-06-MCP-Concepts-and-Final-Challenge.md](Day%201/Lab-06-MCP-Concepts-and-Final-Challenge.md)
+8. [Day 1/Trainer-Evaluation-Checklist.md](Day%201/Trainer-Evaluation-Checklist.md)
+
+### Day 2 Lab Links
+
+1. [Day 2/Lab-00-Legacy-Solution-Setup.md](Day%202/Lab-00-Legacy-Solution-Setup.md)
+2. [Day 2/Lab-01-Legacy-Analysis-and-Modernization-Planning.md](Day%202/Lab-01-Legacy-Analysis-and-Modernization-Planning.md)
+3. [Day 2/Lab-02-Characterization-Tests-and-Safe-Refactoring.md](Day%202/Lab-02-Characterization-Tests-and-Safe-Refactoring.md)
+4. [Day 2/Lab-03-Code-Quality-Bug-Analysis-and-Regression-Workflow.md](Day%202/Lab-03-Code-Quality-Bug-Analysis-and-Regression-Workflow.md)
+5. [Day 2/Lab-04-Security-Review-and-Remediation.md](Day%202/Lab-04-Security-Review-and-Remediation.md)
+6. [Day 2/Lab-05-xUnit-NUnit-and-Mocking-Dependencies.md](Day%202/Lab-05-xUnit-NUnit-and-Mocking-Dependencies.md)
+7. [Day 2/Lab-06-Failing-Test-Diagnosis-Test-Gap-Review-and-Capstone.md](Day%202/Lab-06-Failing-Test-Diagnosis-Test-Gap-Review-and-Capstone.md)
+8. [Day 2/Trainer-Evaluation-Checklist.md](Day%202/Trainer-Evaluation-Checklist.md)
 
 ---
 
@@ -167,7 +191,6 @@ training-claude-ai-advance/
 |
 |-- README.md
 |-- Day 1/
-|   |-- Lab.md
 |   |-- Lab-00-Base-Solution-Setup.md
 |   |-- Lab-01-Claude-Analysis-Prompting-and-Test-Matrix.md
 |   |-- Lab-02-Repository-Understanding-and-AI-Assisted-Feature-Development.md
@@ -178,7 +201,6 @@ training-claude-ai-advance/
 |   |-- Trainer-Evaluation-Checklist.md
 |
 |-- Day 2/
-|   |-- Lab.md
 |   |-- Lab-00-Legacy-Solution-Setup.md
 |   |-- Lab-01-Legacy-Analysis-and-Modernization-Planning.md
 |   |-- Lab-02-Characterization-Tests-and-Safe-Refactoring.md
@@ -191,10 +213,8 @@ training-claude-ai-advance/
 
 | Path | Purpose |
 |---|---|
-| Day 1/Lab.md | Day 1 master index and delivery sequence |
 | Day 1/Lab-00-... to Lab-06-... | Day 1 modular hands-on labs |
 | Day 1/Trainer-Evaluation-Checklist.md | Day 1 trainer rubric and outcomes |
-| Day 2/Lab.md | Day 2 master index and delivery sequence |
 | Day 2/Lab-00-... to Lab-06-... | Day 2 modular hands-on labs |
 | Day 2/Trainer-Evaluation-Checklist.md | Day 2 trainer rubric and outcomes |
 
